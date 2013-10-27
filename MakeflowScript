@@ -1,3 +1,4 @@
-test1_density_grid.txt test1_grav_pos.txt chunkFile.sh prism.py grav.py:
+test1_density_grid.txt test1_grav_pos.txt chunkFile.sh joinFile.sh processFiles.sh prism.py grav.py:
 test1_density_grid.txt chunkFile.sh
     sh chunkFile.sh test1_density_grid.txt 100000
+
