@@ -1,10 +1,10 @@
-#!/usr/bin/env python
-
+#!/usr/bin/python
+ 
 from work_queue import *
 import sys
 
 try:
-    Q = WorkQueue(port = 9014)
+    Q = WorkQueue(port = 3464)
     Q.specify_name("Pamplemousse")
 except:
     print "could not instantiate Work Queue master"
@@ -12,16 +12,19 @@ except:
 
 print "Listening on port %d." % Q.port
 
-density = os.listdir('/tempSplit')
-print "splitFiles"
+density = os.listdir('tempSplit')
+print "in tempSplit"
 
 print "Submitting 542 simulation tasks..."
 for i in range(len(density)):
 	print density
 	
 	infile1 = "test1_density_grid.txt.part_00000" + str(i)
+	print "test1_density_grid.txt.part_00000" + str(i)
 	infile2 = "test1_grav_pos.txt"
+	print "I'm running yo"
 	outfile = "test1_density_grid.txt.part_00000" + str(i) + ".out"
+	print "test1_density_grid.txt.part_00000" + str(i) + ".out"
 	command = "python grav.py %s %s > %s" % (infile1, infile2, outfile)
 	
 	T = Task(command)
