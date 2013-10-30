@@ -1,4 +1,1089 @@
-test1_density_grid.txt test1_grav_pos.txt chunkFile.sh joinFile.sh processFiles.sh prism.py grav.py:
+test1_density_grid.txt test1_grav_pos.txt chunkFile.sh joinFile.sh prism.py grav.py:
 test1_density_grid.txt chunkFile.sh
     sh chunkFile.sh test1_density_grid.txt 100000
-
+grav.py test1_density_grid.txt.part_000000 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000000 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000001 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000001 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000002 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000002 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000003 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000003 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000004 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000004 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000005 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000005 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000006 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000006 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000007 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000007 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000008 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000008 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000009 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000009 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000010 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000010 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000011 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000011 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000012 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000012 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000013 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000013 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000014 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000014 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000015 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000015 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000016 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000016 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000017 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000017 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000018 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000018 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000019 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000019 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000020 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000020 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000021 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000021 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000022 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000022 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000023 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000023 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000024 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000024 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000025 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000025 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000026 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000026 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000027 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000027 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000028 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000028 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000029 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000029 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000030 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000030 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000031 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000031 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000032 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000032 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000033 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000033 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000034 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000034 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000035 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000035 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000036 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000036 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000037 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000037 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000038 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000038 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000039 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000039 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000040 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000040 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000041 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000041 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000042 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000042 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000043 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000043 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000044 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000044 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000045 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000045 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000046 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000046 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000047 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000047 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000048 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000048 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000049 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000049 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000050 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000050 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000051 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000051 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000052 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000052 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000053 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000053 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000054 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000054 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000055 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000055 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000056 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000056 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000057 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000057 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000058 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000058 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000059 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000059 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000060 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000060 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000061 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000061 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000062 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000062 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000063 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000063 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000064 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000064 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000065 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000065 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000066 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000066 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000067 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000067 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000068 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000068 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000069 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000069 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000070 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000070 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000071 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000071 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000072 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000072 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000073 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000073 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000074 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000074 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000075 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000075 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000076 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000076 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000077 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000077 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000078 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000078 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000079 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000079 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000080 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000080 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000081 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000081 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000082 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000082 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000083 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000083 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000084 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000084 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000085 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000085 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000086 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000086 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000087 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000087 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000088 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000088 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000089 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000089 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000090 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000090 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000091 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000091 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000092 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000092 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000093 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000093 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000094 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000094 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000095 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000095 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000096 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000096 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000097 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000097 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000098 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000098 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000099 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000099 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000100 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000100 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000101 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000101 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000102 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000102 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000103 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000103 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000104 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000104 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000105 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000105 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000106 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000106 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000107 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000107 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000108 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000108 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000109 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000109 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000110 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000110 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000111 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000111 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000112 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000112 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000113 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000113 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000114 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000114 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000115 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000115 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000116 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000116 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000117 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000117 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000118 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000118 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000119 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000119 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000120 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000120 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000121 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000121 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000122 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000122 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000123 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000123 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000124 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000124 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000125 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000125 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000126 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000126 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000127 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000127 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000128 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000128 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000129 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000129 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000130 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000130 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000131 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000131 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000132 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000132 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000133 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000133 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000134 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000134 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000135 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000135 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000136 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000136 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000137 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000137 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000138 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000138 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000139 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000139 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000140 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000140 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000141 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000141 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000142 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000142 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000143 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000143 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000144 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000144 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000145 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000145 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000146 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000146 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000147 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000147 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000148 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000148 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000149 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000149 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000150 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000150 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000151 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000151 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000152 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000152 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000153 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000153 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000154 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000154 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000155 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000155 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000156 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000156 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000157 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000157 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000158 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000158 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000159 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000159 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000160 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000160 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000161 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000161 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000162 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000162 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000163 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000163 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000164 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000164 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000165 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000165 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000166 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000166 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000167 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000167 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000168 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000168 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000169 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000169 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000170 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000170 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000171 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000171 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000172 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000172 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000173 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000173 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000174 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000174 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000175 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000175 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000176 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000176 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000177 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000177 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000178 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000178 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000179 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000179 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000180 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000180 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000181 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000181 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000182 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000182 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000183 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000183 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000184 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000184 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000185 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000185 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000186 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000186 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000187 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000187 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000188 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000188 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000189 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000189 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000190 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000190 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000191 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000191 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000192 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000192 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000193 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000193 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000194 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000194 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000195 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000195 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000196 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000196 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000197 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000197 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000198 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000198 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000199 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000199 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000200 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000200 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000201 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000201 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000202 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000202 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000203 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000203 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000204 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000204 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000205 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000205 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000206 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000206 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000207 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000207 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000208 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000208 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000209 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000209 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000210 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000210 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000211 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000211 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000212 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000212 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000213 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000213 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000214 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000214 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000215 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000215 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000216 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000216 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000217 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000217 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000218 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000218 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000219 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000219 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000220 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000220 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000221 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000221 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000222 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000222 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000223 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000223 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000224 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000224 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000225 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000225 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000226 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000226 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000227 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000227 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000228 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000228 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000229 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000229 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000230 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000230 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000231 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000231 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000232 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000232 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000233 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000233 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000234 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000234 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000235 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000235 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000236 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000236 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000237 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000237 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000238 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000238 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000239 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000239 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000240 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000240 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000241 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000241 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000242 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000242 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000243 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000243 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000244 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000244 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000245 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000245 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000246 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000246 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000247 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000247 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000248 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000248 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000249 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000249 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000250 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000250 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000251 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000251 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000252 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000252 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000253 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000253 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000254 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000254 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000255 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000255 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000256 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000256 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000257 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000257 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000258 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000258 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000259 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000259 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000260 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000260 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000261 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000261 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000262 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000262 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000263 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000263 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000264 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000264 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000265 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000265 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000266 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000266 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000267 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000267 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000268 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000268 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000269 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000269 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000270 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000270 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000271 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000271 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000272 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000272 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000273 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000273 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000274 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000274 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000275 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000275 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000276 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000276 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000277 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000277 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000278 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000278 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000279 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000279 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000280 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000280 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000281 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000281 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000282 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000282 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000283 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000283 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000284 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000284 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000285 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000285 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000286 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000286 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000287 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000287 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000288 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000288 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000289 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000289 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000290 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000290 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000291 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000291 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000292 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000292 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000293 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000293 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000294 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000294 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000295 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000295 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000296 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000296 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000297 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000297 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000298 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000298 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000299 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000299 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000300 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000300 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000301 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000301 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000302 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000302 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000303 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000303 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000304 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000304 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000305 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000305 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000306 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000306 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000307 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000307 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000308 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000308 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000309 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000309 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000310 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000310 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000311 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000311 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000312 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000312 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000313 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000313 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000314 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000314 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000315 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000315 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000316 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000316 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000317 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000317 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000318 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000318 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000319 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000319 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000320 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000320 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000321 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000321 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000322 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000322 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000323 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000323 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000324 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000324 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000325 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000325 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000326 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000326 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000327 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000327 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000328 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000328 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000329 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000329 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000330 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000330 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000331 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000331 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000332 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000332 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000333 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000333 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000334 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000334 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000335 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000335 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000336 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000336 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000337 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000337 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000338 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000338 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000339 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000339 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000340 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000340 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000341 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000341 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000342 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000342 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000343 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000343 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000344 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000344 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000345 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000345 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000346 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000346 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000347 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000347 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000348 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000348 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000349 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000349 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000350 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000350 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000351 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000351 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000352 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000352 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000353 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000353 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000354 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000354 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000355 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000355 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000356 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000356 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000357 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000357 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000358 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000358 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000359 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000359 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000360 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000360 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000361 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000361 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000362 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000362 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000363 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000363 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000364 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000364 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000365 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000365 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000366 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000366 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000367 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000367 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000368 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000368 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000369 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000369 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000370 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000370 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000371 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000371 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000372 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000372 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000373 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000373 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000374 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000374 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000375 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000375 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000376 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000376 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000377 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000377 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000378 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000378 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000379 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000379 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000380 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000380 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000381 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000381 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000382 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000382 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000383 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000383 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000384 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000384 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000385 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000385 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000386 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000386 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000387 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000387 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000388 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000388 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000389 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000389 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000390 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000390 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000391 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000391 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000392 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000392 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000393 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000393 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000394 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000394 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000395 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000395 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000396 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000396 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000397 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000397 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000398 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000398 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000399 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000399 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000400 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000400 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000401 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000401 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000402 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000402 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000403 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000403 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000404 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000404 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000405 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000405 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000406 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000406 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000407 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000407 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000408 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000408 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000409 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000409 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000410 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000410 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000411 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000411 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000412 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000412 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000413 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000413 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000414 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000414 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000415 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000415 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000416 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000416 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000417 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000417 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000418 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000418 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000419 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000419 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000420 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000420 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000421 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000421 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000422 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000422 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000423 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000423 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000424 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000424 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000425 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000425 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000426 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000426 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000427 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000427 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000428 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000428 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000429 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000429 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000430 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000430 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000431 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000431 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000432 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000432 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000433 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000433 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000434 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000434 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000435 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000435 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000436 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000436 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000437 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000437 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000438 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000438 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000439 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000439 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000440 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000440 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000441 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000441 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000442 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000442 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000443 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000443 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000444 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000444 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000445 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000445 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000446 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000446 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000447 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000447 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000448 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000448 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000449 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000449 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000450 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000450 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000451 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000451 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000452 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000452 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000453 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000453 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000454 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000454 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000455 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000455 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000456 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000456 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000457 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000457 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000458 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000458 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000459 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000459 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000460 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000460 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000461 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000461 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000462 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000462 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000463 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000463 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000464 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000464 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000465 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000465 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000466 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000466 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000467 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000467 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000468 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000468 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000469 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000469 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000470 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000470 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000471 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000471 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000472 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000472 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000473 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000473 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000474 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000474 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000475 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000475 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000476 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000476 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000477 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000477 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000478 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000478 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000479 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000479 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000480 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000480 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000481 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000481 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000482 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000482 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000483 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000483 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000484 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000484 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000485 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000485 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000486 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000486 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000487 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000487 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000488 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000488 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000489 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000489 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000490 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000490 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000491 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000491 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000492 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000492 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000493 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000493 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000494 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000494 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000495 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000495 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000496 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000496 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000497 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000497 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000498 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000498 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000499 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000499 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000500 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000500 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000501 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000501 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000502 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000502 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000503 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000503 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000504 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000504 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000505 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000505 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000506 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000506 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000507 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000507 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000508 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000508 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000509 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000509 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000510 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000510 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000511 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000511 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000512 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000512 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000513 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000513 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000514 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000514 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000515 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000515 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000516 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000516 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000517 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000517 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000518 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000518 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000519 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000519 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000520 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000520 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000521 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000521 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000522 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000522 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000523 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000523 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000524 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000524 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000525 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000525 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000526 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000526 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000527 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000527 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000528 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000528 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000529 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000529 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000530 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000530 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000531 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000531 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000532 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000532 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000533 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000533 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000534 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000534 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000535 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000535 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000536 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000536 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000537 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000537 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000538 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000538 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000539 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000539 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000540 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000540 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000541 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000541 test1_grav_pos.txt
+grav.py test1_density_grid.txt.part_000542 test1_grav_pos.txt
+	python grav.py test1_density_grid.txt.part_000542 test1_grav_pos.txt
