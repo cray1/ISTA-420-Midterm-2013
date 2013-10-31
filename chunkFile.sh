@@ -20,11 +20,11 @@
 #
 #if the directory "splitFiles" does not exist
 #make the directory "splitFiles"
-echo "chunkFile.sh:     Making splitFiles$2 directory with 777 permissions if it doesn't exist"
-mkdir -v -p -m 777 splitFiles$2
+#echo "chunkFile.sh:     Making splitFiles$2 directory with 777 permissions if it doesn't exist"
+#mkdir -v -p -m 777 splitFiles$2
 #
 # split the file into parts and put in directory splitFiles.
 #  note, limited to 999,999 files. To changes this limit edit the number following the -a
-echo "chunkFile.sh:     Splitting $1 into $2 line chunks and placing in splitFiles$2"
-split --verbose -a 6 -d -l $2 $1 splitFiles$2/$1.part_
+echo "chunkFile.sh:     Splitting $1 into $2 line chunks"
+split --verbose -a 6 -d -l $2 $1 $1.part_
 echo "chunkFile.sh:     Done"
